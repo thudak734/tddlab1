@@ -1,0 +1,23 @@
+{
+  "name": "tddnonpm-lab-thudak734",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thudak734/tddlab1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thudak734/tddlab1/issues"
+  },
+  "homepage": "https://github.com/thudak734/tddlab1#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
